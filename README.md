@@ -4,15 +4,19 @@
 
 This user-defined syntax file is meant to be used along with the Monokai theme (it is the theme I use).
 
-## Setting up Monokai Theme
+### Screenshot
+
+![Notepad++ Monokai Markdown Syntax Highlighting](https://raw.githubusercontent.com/jeanlescure/npp-markdown-monokai/master/screenshot.png "Notepad++ Monokai Markdown Syntax Highlighting")
+
+### Setting up Monokai Theme
 
 On Notepad++ menu bar:
 
 - Select _Settings_ -> _Style Configurator..._
-- Click on the _Select theme : _ drop-down
+- Click on the _Select theme :_ drop-down
 - Scroll to and select `Monokai`
 
-## Installing Markdown Syntax Highlighter
+### Installing Markdown Syntax Highlighter
 
 Navigate to the Notepad++ installation folder.
 
